@@ -1,3 +1,6 @@
+# Unsure of why my code is crossed out.
+
+
 # BASH--Analyzing-Log-Files
 ubuntu@ip-172-31-83-6:~$ git clone https://github.com/kura-labs-org/install-sh.git
 Cloning into 'install-sh'...
